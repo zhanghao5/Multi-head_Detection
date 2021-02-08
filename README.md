@@ -1,4 +1,4 @@
-# Multi-head Object Detection Architecure for 
+# Multi-head Object Detection Architecure
 
 ## (neural networks for object detection)
 
